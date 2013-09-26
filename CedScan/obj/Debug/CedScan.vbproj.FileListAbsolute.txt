@@ -1,0 +1,22 @@
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\CedScan.exe
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\CedScan.xml
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\CedScan.pdb
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\bin\Debug\CedScan.exe
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\bin\Debug\CedScan.pdb
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\bin\Debug\CedScan.xml
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\CedScan.ScanTest.resources
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\CedScan.Resources.resources
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\ResGen.read.1.tlog
+D:\Documentos\Mis Programas\VS .NET\CedScan\CedScan\obj\Debug\ResGen.write.1.tlog
+Y:\CedScan\CedScan\obj\Debug\CedScan.exe
+Y:\CedScan\CedScan\obj\Debug\CedScan.xml
+Y:\CedScan\CedScan\obj\Debug\CedScan.pdb
+Y:\CedScan\CedScan\bin\Debug\CedScan.exe
+Y:\CedScan\CedScan\bin\Debug\CedScan.pdb
+Y:\CedScan\CedScan\bin\Debug\CedScan.xml
+Y:\CedScan\CedScan\bin\Debug\vjslib.dll
+Y:\CedScan\CedScan\obj\Debug\CedScan.vbprojResolveAssemblyReference.cache
+Y:\CedScan\CedScan\obj\Debug\CedScan.ScanTest.resources
+Y:\CedScan\CedScan\obj\Debug\CedScan.Resources.resources
+Y:\CedScan\CedScan\obj\Debug\CedScan.vbproj.GenerateResource.Cache

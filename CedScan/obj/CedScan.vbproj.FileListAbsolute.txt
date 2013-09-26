@@ -1,0 +1,10 @@
+C:\Desarrollo2005\CSS\CedScan\CedScan\bin\Debug\CedScan.exe
+C:\Desarrollo2005\CSS\CedScan\CedScan\bin\Debug\CedScan.pdb
+C:\Desarrollo2005\CSS\CedScan\CedScan\bin\Debug\CedScan.xml
+C:\Desarrollo2005\CSS\CedScan\CedScan\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo2005\CSS\CedScan\CedScan\obj\Debug\CedScan.ScanTest.resources
+C:\Desarrollo2005\CSS\CedScan\CedScan\obj\Debug\CedScan.Resources.resources
+C:\Desarrollo2005\CSS\CedScan\CedScan\obj\Debug\CedScan.vbproj.GenerateResource.Cache
+C:\Desarrollo2005\CSS\CedScan\CedScan\obj\Debug\CedScan.exe
+C:\Desarrollo2005\CSS\CedScan\CedScan\obj\Debug\CedScan.xml
+C:\Desarrollo2005\CSS\CedScan\CedScan\obj\Debug\CedScan.pdb

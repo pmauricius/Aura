@@ -9,7 +9,7 @@ namespace Aura.Kioski.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            //allalalalala
+            //blablabladfasdfasdfasdfasdfasdfasd
         }
     }
 }
