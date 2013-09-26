@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura.Kioski", "CIAC\Aura.Kioski.csproj", "{4311877D-C054-45A4-BBC2-FEB495E46D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura.Kioski.WebServices.Client", "TEP\Aura.Kioski.WebServices.Client.csproj", "{44AADD49-F6EB-4B22-AB54-B39488AD4E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnrollmentSample CS", "..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\EnrollmentSample CS.csproj", "{8FEC182D-15D6-4052-A673-9B7018501B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura.Kioski.Tests", "CIAC.KSK.FingerPrintTests\Aura.Kioski.Tests.csproj", "{6B60D8EA-1EF4-451C-B2DA-8E97D9341BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura.Kioski.Devices.Readers", "Aura.Kioski.Devices.Readers\Aura.Kioski.Devices.Readers.csproj", "{B8954C59-BFC2-4A5D-A8D1-8BDAD527A7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4311877D-C054-45A4-BBC2-FEB495E46D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4311877D-C054-45A4-BBC2-FEB495E46D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4311877D-C054-45A4-BBC2-FEB495E46D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4311877D-C054-45A4-BBC2-FEB495E46D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AADD49-F6EB-4B22-AB54-B39488AD4E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AADD49-F6EB-4B22-AB54-B39488AD4E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AADD49-F6EB-4B22-AB54-B39488AD4E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AADD49-F6EB-4B22-AB54-B39488AD4E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEC182D-15D6-4052-A673-9B7018501B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEC182D-15D6-4052-A673-9B7018501B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEC182D-15D6-4052-A673-9B7018501B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEC182D-15D6-4052-A673-9B7018501B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B60D8EA-1EF4-451C-B2DA-8E97D9341BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B60D8EA-1EF4-451C-B2DA-8E97D9341BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B60D8EA-1EF4-451C-B2DA-8E97D9341BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B60D8EA-1EF4-451C-B2DA-8E97D9341BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8954C59-BFC2-4A5D-A8D1-8BDAD527A7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8954C59-BFC2-4A5D-A8D1-8BDAD527A7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8954C59-BFC2-4A5D-A8D1-8BDAD527A7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8954C59-BFC2-4A5D-A8D1-8BDAD527A7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
